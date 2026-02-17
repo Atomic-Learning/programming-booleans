@@ -1,0 +1,20 @@
+{
+    "title": "Programming: Booleans",
+    "slug": "programming-booleans",
+    "description": "Introduction to boolean values in a language-agnostic way. Covers the concept of boolean logic, true and false values, and their role in conditional logic and decision-making in programs.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "programming",
+        "pseudocode"
+    ],
+    "duration": 4,
+    "prerequisites": [
+        "programming-variables"
+    ],
+    "related": [
+        "programming-objects-types",
+        "python-booleans"
+    ]
+}
